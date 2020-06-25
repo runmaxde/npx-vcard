@@ -1,6 +1,6 @@
 {
   "name": "runmax-info",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "description": "my business card project to learn more about Actions & publishing to npm. #trial&error ",
   "main": "index.js",
   "bin": {
