@@ -1,14 +1,14 @@
 {
-  "name": "runmax-info-2",
-  "version": "1.1.1",
+  "name": "runmax-info",
+  "version": "2.0.3",
   "description": "my business card project to learn more about Actions & publishing to npm. #trial&error ",
   "main": "index.js",
   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/runmaxde/npx-vcard"
+    "type": "git",
+    "url": "https://github.com/runmaxde/npx-vcard"
   },
   "author": "runmax",
   "license": "ISC"
