@@ -1,12 +1,14 @@
 {
   "name": "runmax-info",
-  "description": "Smal test",
-  "version": "1.0.5",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "1.1.0",
+  "description": "my business card project to learn more about Actions & publishing to npm. #trial&error ",
+  "main": "index.js",
+  "bin": {
+      "biz-card": "app.js"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "runmax",
   "license": "ISC"
 }
