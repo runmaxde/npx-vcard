@@ -8,6 +8,7 @@ Max M. (runmax || runmaxde)
 
 Site ..... https://www.runmax.de
 GitHub ... https://www.github.com/runmaxde
+npmjs .... https://www.npmjs.com/~runmax
 Dribble .. https://dribbble.com/runmaxde
 
 `);
