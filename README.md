@@ -23,8 +23,8 @@ publish to *npmjs.com* with **Github Actions**
 
 
 ## TODO
-[] create working GH-Action
-  [] publish to npm (when new GH release will be created)
-  [] update version number (value from GH relase)
+create working GH-Action
+- [ ] publish to npm (when new GH release will be created)
+- [ ] update version number (value from GH relase)
     - package-lock.json
     - package.json
