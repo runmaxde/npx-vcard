@@ -4,7 +4,7 @@
   "description": "my business card project to learn more about Actions & publishing to npm. #trial&error ",
   "main": "index.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "exit"
   },
   "repository": {
     "type": "git",
