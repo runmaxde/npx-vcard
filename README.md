@@ -16,3 +16,7 @@ npx runmax-info
 ## Implementation
 
 only one `console.log()`, no dependencies
+
+## Deployment
+
+publish to *npmjs.com* with **Github Actions**
