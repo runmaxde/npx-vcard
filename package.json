@@ -1,6 +1,7 @@
 {
   "name": "runmax-vcard",
   "description": "Smal test",
+  "version": "1.0.2",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
