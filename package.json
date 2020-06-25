@@ -11,6 +11,5 @@
     "url" : "https://github.com/runmaxde/npx-vcard"
   },
   "author": "runmax",
-  "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/runmaxde" } 
+  "license": "ISC"
 }
