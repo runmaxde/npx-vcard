@@ -1,6 +1,4 @@
-# npx-vcard
-
-![npm-publish](https://github.com/runmaxde/npx-vcard/workflows/npm-publish/badge.svg) => action isnt working
+# npx-vcard // runmax-info
 
 ## Purpose
 
