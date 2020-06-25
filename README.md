@@ -6,16 +6,18 @@
 
 small project to learn more about Actions & publishing to npm. #trial&error 
 
+
 ## About
 
 print personal link tree to the terminal with 
-```
-npx runmax-info
-```
+
+```npx runmax-info```
+
 
 ## Implementation
 
 only one `console.log()`, no dependencies
+
 
 ## Deployment
 
