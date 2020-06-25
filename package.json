@@ -1,6 +1,5 @@
 {
   "name": "runmax-vcard",
-  "version": "1.0.0",
   "description": "Smal test",
   "main": "app.js",
   "scripts": {
